@@ -31,5 +31,14 @@ print(“You are, " , age)
 
  Explanation = syntax arror
 
+2. name = input("Enter your name: ") 
+
+age= int(input("Enter your age: ")) 
+
+print("Hello " ,  name , " You are, " , age) 
+
+Explanation = It says hello to me and my age
+
+
 
  
