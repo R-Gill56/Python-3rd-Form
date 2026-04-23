@@ -1,0 +1,43 @@
+
+for i in range(10):
+  print("kebab")
+
+
+for i in range(0, 25, 3):
+    print(i)
+
+
+name = str(input("Input your name>>>"))
+repeat = int(input("How many times do you want your name repeated?"))
+for i in range(repeat):
+  print(name)
+
+
+
+number = int(input("Enter a times table: "))
+for i in range(1,13):
+  print(i , "x" , number, "=", i*number)
+print("showing the",number,"times table")
+
+
+for i in range(10, 0, -1):
+  print (i)
+print("!!Blast off!!")
+
+
+number = 0 
+number = number + 1
+rainbow =["red","orange","yellow","green","blue","indigo", "violet"]
+for i in rainbow:
+  print ("Colour",number*2,"is", i)
+
+
+number = int(input("Type an integer from 1-100"))
+for i in range(number,-1,-1):
+  print(i)
+
+
+
+
+
+
